@@ -4,7 +4,6 @@ package com.yzeng.singleton;
 public class SingletonDemo3 {
     // 私有化构造器
     private SingletonDemo3() {
-
     }
 
     // 类初始化时，不立即加载该对象

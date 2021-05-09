@@ -1,14 +1,12 @@
 package com.yzeng.singleton;
 
-// 恶汉式单例
+// 饿汉式单例
 public class SingletonDemo1 {
     // 私有化构造器
-    private SingletonDemo1() {
-
-    }
+    private SingletonDemo1() { }
 
     // 类初始化时，立即加载该对象
-    private static SingletonDemo1 instance = new SingletonDemo1();
+    private static final SingletonDemo1 instance = new SingletonDemo1();
 
     // 提供获取该对象的方法
     public static SingletonDemo1 getInstance() {

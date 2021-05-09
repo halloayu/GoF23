@@ -6,7 +6,6 @@ import java.lang.reflect.Constructor;
 // 静态内部类实现
 public class SingletonDemo4 {
     private SingletonDemo4() {
-
     }
 
     private static class InnerClass{

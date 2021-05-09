@@ -1,51 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8daa7078-9b51-49f2-a4c2-b133604ca80d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/META-INF/GoF23.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/abstracts/ApplePhone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/abstracts/AppleRouter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/abstracts/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/abstracts/XiaomiPhone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/abstracts/XiaomiRouter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/abstracts/factory/AppleFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/abstracts/factory/XiaomiFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/abstracts/interfaces/IPhoneProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/abstracts/interfaces/IProductFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/abstracts/interfaces/IRouterProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/method/BMW.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/method/BMWFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/method/Benz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/method/BenzFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/method/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/method/CarFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/method/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/simple/BMW.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/simple/Benz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/simple/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/simple/CarFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/factory/simple/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo1Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo2Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo3Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo4$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo4$InnerClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo4Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo5$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo5$InnerClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo5Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo6.class" afterDir="false" />
+    <list default="true" id="8daa7078-9b51-49f2-a4c2-b133604ca80d" name="Default Changelist" comment="代理模式3.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yzeng/singleton/SingletonDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yzeng/singleton/SingletonDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yzeng/singleton/SingletonDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yzeng/singleton/SingletonDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yzeng/singleton/SingletonDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yzeng/singleton/SingletonDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yzeng/singleton/SingletonDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yzeng/singleton/SingletonDemo4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,15 +41,15 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/yzeng/proxy/demo3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -189,6 +151,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -236,62 +199,5 @@
     <MESSAGE value="抽象工厂方法2.0" />
     <MESSAGE value="代理模式3.0" />
     <option name="LAST_COMMIT_MESSAGE" value="代理模式3.0" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="582" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1583571707880">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state x="582" y="151" key="#com.intellij.ide.util.MemberChooser/0.23.1440.811@0.23.1440.811" timestamp="1583571707880" />
-    <state x="582" y="151" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812@0.23.1440.812" timestamp="1580740046033" />
-    <state x="582" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.816@0.23.1440.816" timestamp="1580737969193" />
-    <state x="345" y="37" key="CommitChangelistDialog2" timestamp="1580740773308">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state x="345" y="37" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1580740773308" />
-    <state x="345" y="37" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1580124628715" />
-    <state x="345" y="37" key="CommitChangelistDialog2/0.23.1440.814@0.23.1440.814" timestamp="1580359546868" />
-    <state x="188" y="127" width="1152" height="608" key="DiffContextDialog" timestamp="1580740941226">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state x="188" y="127" width="1152" height="608" key="DiffContextDialog/0.23.1440.811@0.23.1440.811" timestamp="1580740941226" />
-    <state width="1310" height="169" key="GridCell.Tab.0.bottom" timestamp="1583572364297">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state width="1310" height="169" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1583572364297" />
-    <state width="1310" height="81" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1580739431425" />
-    <state width="1310" height="81" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1580359594177" />
-    <state width="1310" height="169" key="GridCell.Tab.0.center" timestamp="1583572364296">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state width="1310" height="169" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1583572364296" />
-    <state width="1310" height="81" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1580739431425" />
-    <state width="1310" height="81" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1580359594177" />
-    <state width="1310" height="169" key="GridCell.Tab.0.left" timestamp="1583572364295">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state width="1310" height="169" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1583572364295" />
-    <state width="1310" height="81" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1580739431425" />
-    <state width="1310" height="81" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1580359594176" />
-    <state width="1310" height="169" key="GridCell.Tab.0.right" timestamp="1583572364297">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state width="1310" height="169" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1583572364297" />
-    <state width="1310" height="81" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1580739431425" />
-    <state width="1310" height="81" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1580359594177" />
-    <state x="369" y="174" key="Vcs.Push.Dialog.v2" timestamp="1580740785859">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state x="369" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1580740785859" />
-    <state x="369" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1580124656602" />
-    <state x="369" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1580359562804" />
-    <state x="478" y="233" key="git4idea.merge.GitPullDialog" timestamp="1583572404009">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state x="478" y="233" key="git4idea.merge.GitPullDialog/0.23.1440.811@0.23.1440.811" timestamp="1583572404009" />
-    <state x="478" y="233" key="git4idea.merge.GitPullDialog/0.23.1440.812@0.23.1440.812" timestamp="1580124422449" />
-    <state x="429" y="159" width="670" height="676" key="search.everywhere.popup" timestamp="1580734355685">
-      <screen x="0" y="23" width="1440" height="812" />
-    </state>
-    <state x="429" y="159" width="670" height="676" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1580734355685" />
   </component>
 </project>
