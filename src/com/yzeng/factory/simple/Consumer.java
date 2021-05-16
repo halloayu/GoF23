@@ -6,7 +6,7 @@ package com.yzeng.factory.simple;
  */
 
 public class Consumer {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         // 传统方式买车
 //        Car car1 = new BMW();
 //        Car car2 = new Benz();
