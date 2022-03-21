@@ -1,37 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8daa7078-9b51-49f2-a4c2-b133604ca80d" name="Default Changelist" comment="单例模式文档">
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/chain/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/chain/FilterChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/chain/FourFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/chain/OneFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/chain/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/chain/ThreeFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/chain/TwoFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/strategy/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/strategy/CatSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/strategy/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/strategy/Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/strategy/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/strategy/DogComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/strategy/DogSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/strategy/Sorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yzeng/strategy/Test.java" afterDir="false" />
+    <list default="true" id="8daa7078-9b51-49f2-a4c2-b133604ca80d" name="Default Changelist" comment="建造者模式4.0">
+      <change afterPath="$PROJECT_DIR$/src/com/yzeng/observable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yzeng/proxy/ProxyDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yzeng/proxy/ProxyDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GoF23/META-INF/GoF23.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo1Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo2Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo3Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo3Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo4$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo4$InnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo4Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GoF23/com/yzeng/singleton/SingletonDemo4Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yzeng/factory/simple/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yzeng/factory/simple/CarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yzeng/factory/simple/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yzeng/factory/simple/Consumer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +38,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$/.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1WyXBRqrU56fjDHw2MwMMr6KLsd" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -81,30 +52,31 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/yzeng/proxy/demo3" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.yzeng.strategy" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yzeng.build.demo2" />
+      <recent name="com.yzeng.proxy.demo4" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/yzeng/proxy/demo3" />
       <recent name="$PROJECT_DIR$/src/com/yzeng/factory/method" />
       <recent name="$PROJECT_DIR$/src/com/yzeng/factory/simple" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.yzeng.build.demo2" />
-      <recent name="com.yzeng.proxy.demo4" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yzeng.proxy.demo4.Client" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yzeng.observable.Main" />
       <module name="GoF23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yzeng.proxy.demo4.*" />
+          <option name="PATTERN" value="com.yzeng.observable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yzeng.chain.Test" />
+    <configuration name="ProxyDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yzeng.proxy.ProxyDemo1" />
       <module name="GoF23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yzeng.chain.*" />
+          <option name="PATTERN" value="com.yzeng.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yzeng.strategy.Test" />
+    <configuration name="ProxyDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yzeng.proxy.ProxyDemo2" />
       <module name="GoF23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yzeng.strategy.*" />
+          <option name="PATTERN" value="com.yzeng.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,25 +138,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ProxyDemo2" />
+        <item itemvalue="Application.ProxyDemo1" />
         <item itemvalue="Application.User (1)" />
         <item itemvalue="Application.User" />
-        <item itemvalue="Application.Client (4)" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -200,7 +160,12 @@
       <workItem from="1580122674816" duration="1974000" />
       <workItem from="1580356512108" duration="2899000" />
       <workItem from="1580733551296" duration="6276000" />
-      <workItem from="1583568472547" duration="3687000" />
+      <workItem from="1583568472547" duration="3998000" />
+      <workItem from="1606057821033" duration="142000" />
+      <workItem from="1624177944100" duration="288000" />
+      <workItem from="1624178437895" duration="85000" />
+      <workItem from="1624178537086" duration="109000" />
+      <workItem from="1630818501690" duration="215000" />
     </task>
     <task id="LOCAL-00001" summary="增加简单工厂与静态方法工厂">
       <created>1580124628868</created>
@@ -223,18 +188,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580740773473</updated>
     </task>
-    <task id="LOCAL-00004" summary="单例模式文档">
-      <created>1620527757754</created>
+    <task id="LOCAL-00004" summary="建造者模式4.0">
+      <created>1583572537576</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1620527757755</updated>
+      <updated>1583572537576</updated>
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -246,28 +211,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加简单工厂与静态方法工厂" />
     <MESSAGE value="抽象工厂方法2.0" />
     <MESSAGE value="代理模式3.0" />
-    <MESSAGE value="单例模式文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="单例模式文档" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yzeng/chain/FourFilter.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yzeng/chain/FilterChain.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="建造者模式4.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="建造者模式4.0" />
   </component>
 </project>
